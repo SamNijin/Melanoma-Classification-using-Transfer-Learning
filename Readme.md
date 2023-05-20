@@ -1,4 +1,4 @@
-<center> <h1 style='font-size:50px'>Melanoma vs Normal Moles</h1> </center>
+<h1 style='font-size:50px; text-align:center;font-weight:900;'>Melanoma vs Normal Moles</h1>
 
 ![melanoma](https://miiskin.com/wp-content/uploads/2019/09/how-melanoma-looks-like.jpg)
 
